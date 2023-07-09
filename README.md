@@ -18,6 +18,9 @@ You may also see any lint errors in the console.
 
 ### `Cypress Tests`
 
+
+![cypress tests](https://github.com/rchovatiya88/React-Quiz-App/blob/main/public/ReactjswithCypress.gif)
+
 To run the cypress tests, run the following commands in the terminal: `npx cypress open` 
 
 This will open the cypress test runner. Click on the `App.spec.js` file to run the tests.
