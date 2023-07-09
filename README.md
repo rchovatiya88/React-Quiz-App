@@ -16,6 +16,13 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
+### `Cypress Tests`
+
+To run the cypress tests, run the following commands in the terminal: `npx cypress open` 
+
+This will open the cypress test runner. Click on the `App.spec.js` file to run the tests.
+
+Here is gif of the tests running: 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
